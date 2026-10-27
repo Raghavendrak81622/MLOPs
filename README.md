@@ -1,0 +1,1 @@
+This repository demonstrates Git and GitHub synchronization.
